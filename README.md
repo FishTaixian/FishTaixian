@@ -1,7 +1,7 @@
 <h2>Hello,my name's TaiXian</h2>
 <br />
 I'm a little coder. I'm form China. I'm a student now.<br />
-This is my git account,I want use code to create a beautful net world.
+This is my git account,I want use code to create a beautful net world.<br />
 uh...although my program experience is poor.<br />
 <del>AND ENGLISH IS TOO.</del><br />
 <br />
