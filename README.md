@@ -3,7 +3,7 @@
 I'm a little coder. I'm form China. I'm a student now.<br />
 This is my git account,I want use code to create a beautful net world.<br />
 uh...although my programming experience is poor.<br />
-<del>AND ENGLISH IS TOO.</del><br />
+<del>NOT ONLY PROGRAMMING EXPERIENCE BUT ALSO ENGLISH.</del><br />
 <br />
 
 <h2>How Many Hobbies I Have?</h2>
