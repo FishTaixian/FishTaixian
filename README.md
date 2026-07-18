@@ -13,7 +13,7 @@ But I don't have a great time to do that.<br />
 
 <h2>How About My School Learning Grade?</h2>
 <br />
-Who told you to ask me?<br />
+Who let you to ask me?<br />
 :-(<br />
 
 <h2>About My Studio</h2>
