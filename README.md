@@ -10,6 +10,7 @@
 - I use Python and C#
 - nooble in Programming
 - online in weekend
+- xianproxy1@outlook.com
 
 <!---
 FishTaixian/FishTaixian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
