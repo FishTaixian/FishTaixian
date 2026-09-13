@@ -1,5 +1,15 @@
-## I AM A TEAPOT
-## I CANNOT MAKE COFFEE
+<div align="center">
+<img src="./src/img/illumaid-blured-designed.png" alt="The illumaid avatar" width=600 />
+</div>
+
+# Hi I'm Chao
+
+---
+
+- CHS/CHT/ENG
+- I use Python and C#
+- nooble in Programming
+- online in weekend
 
 <!---
 FishTaixian/FishTaixian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
